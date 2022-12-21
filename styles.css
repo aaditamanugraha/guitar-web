@@ -1,0 +1,81 @@
+body {
+  text-align: center;
+  background-color: #000000;
+}
+
+h1 {
+  font-size: 3.5rem;
+  color: #cf0a0a;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #dc5f00;
+}
+
+footer {
+  color: #cf0a0a;
+  font-family: sans-serif;
+}
+
+.c img {
+  width: 100px;
+  display: flex;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.e img {
+  width: 100px;
+  display: flex;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.a img {
+  width: 100px;
+  display: flex;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.d img {
+  width: 100px;
+  display: flex;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.g img {
+  width: 100px;
+  display: flex;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.guitar {
+  outline: none;
+  border: 10px solid #cf0a0a;
+  font-size: 3rem;
+  font-family: "Arvo", cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #cf0a0a;
+  text-shadow: 3px 0 #dc5f00;
+  border-radius: 15px;
+  display: inline-block;
+  width: 200px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
+.guitar:hover {
+  cursor: pointer;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #dbedf3;
+  opacity: 0.5;
+}
